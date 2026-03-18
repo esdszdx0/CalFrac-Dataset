@@ -1,18 +1,35 @@
-# CalFrac Dataset
+# CalFrac: Calcaneal Fracture Dataset and Code
 
-This repository provides the official resources for the CalFrac dataset introduced in our paper.
+This repository provides the source code and data access protocol for the calcaneal fracture segmentation project.
 
+## Overview
 
-## How to Request the Dataset
+This project provides:
 
-1. Fill the Data Request Form
-2. Sign the Data Usage Agreement
-3. Send the documents to the corresponding author
+- Deep learning code
+- Dataset access protocol
+- Training and inference scripts
 
-After approval, the dataset will be shared via a secure transfer link.
+# Dataset Access Procedure
+## Step 1
+Download and sign the Data Use Agreement.
+File:
+Data_Use_Agreement.md
 
-## Dataset Access Files
+## Step 2
 
-All files are located in the dataset_access directory.
+Send the signed agreement and a short research description to:
+dataset@your_email.com
 
+## Step 3
+
+After approval, you will receive:
+- Baidu Netdisk download link
+- Extraction code
+- Decompression password
+
+## Terms of Use
+
+The dataset may only be used for academic research.
+Redistribution is strictly prohibited.
 
