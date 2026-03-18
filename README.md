@@ -19,7 +19,7 @@ Data_Use_Agreement.md
 ## Step 2
 
 Send the signed agreement and a short research description to:
-dataset@your_email.com
+1371157827@qq.com
 
 ## Step 3
 
